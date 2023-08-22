@@ -1,0 +1,17 @@
+#page ul{
+    style:none;
+}
+#page ul li{
+    display: inline-block;
+}
+#page ul li a{
+    display: block;
+    padding: 10px 20px;
+    color: #fff;
+    border-bottom: 2px solid transparent;
+}
+#page ul li a:hover{
+    
+    background-color:#000;
+    color: #fff;
+}
